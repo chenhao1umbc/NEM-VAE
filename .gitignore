@@ -5,6 +5,7 @@ __pycache__/
 
 #my files
 *.DS_Store
+*.pynb
 
 # C extensions
 *.so
